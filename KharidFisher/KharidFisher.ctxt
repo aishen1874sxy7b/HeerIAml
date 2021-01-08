@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=KharidFisher
+comment1.params=
+comment1.target=void\ onStart()
+comment10.params=g
+comment10.target=void\ onPaint(java.awt.Graphics2D)
+comment2.params=
+comment2.target=KharidFisher.State\ getState()
+comment3.params=
+comment3.target=int\ onLoop()
+comment4.params=
+comment4.target=void\ walkToBank()
+comment5.params=
+comment5.target=void\ walkToClose()
+comment6.params=
+comment6.target=void\ walkToFar()
+comment7.params=
+comment7.target=void\ bank()
+comment8.params=
+comment8.target=void\ goFish()
+comment9.params=
+comment9.target=void\ onExit()
+numComments=11
